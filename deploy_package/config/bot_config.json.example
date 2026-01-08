@@ -1,0 +1,14 @@
+{
+  "mode": "app",
+  "corp_id": "",
+  "agent_id": "",
+  "secret": "",
+  "token": "",
+  "encoding_aes_key": "",
+  "host": "0.0.0.0",
+  "port": 8888,
+  "default_folder_id": "0",
+  "search_folder_id": "0",
+  "proxy": "https://qyapi.weixin.qq.com"
+}
+

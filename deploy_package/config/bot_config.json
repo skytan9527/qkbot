@@ -1,0 +1,14 @@
+{
+  "mode": "app",
+  "corp_id": "ww4a38cb3ea2dd73d5",
+  "agent_id": "1000010",
+  "secret": "kh1J0kuzBx5f82C7MAOiriJb6NMMd2vejcOCQN5ehDE",
+  "token": "D1hRR0afQd0OENO6FR7P7b8",
+  "encoding_aes_key": "7y7DhdgjViwICymATtwBSfT2biYeWVfJVO4Qe1bWXgx",
+  "host": "0.0.0.0",
+  "port": 8888,
+  "default_folder_id": "cc50fcf6dc794b94aaeade5ecf504237",
+  "search_folder_id": "cc50fcf6dc794b94aaeade5ecf504237",
+  "proxy": "http://8.148.144.237:8090",
+  "quark_banned": "配套材料,幼小初高,免费斑马,首单免费.jpg,赠送资源,首单免费,5分一页"
+}
